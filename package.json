@@ -1,0 +1,21 @@
+{
+  "name": "is-zero",
+  "version": "1.0.0",
+  "description": "Check if a number is zero",
+  "main": "index.js",
+  "author": "heocoi",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "ava": "^1.3.1"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "dependencies": {
+    "xo": "^0.24.0"
+  },
+  "xo": {
+    "prettier": true
+  }
+}
